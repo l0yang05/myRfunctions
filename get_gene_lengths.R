@@ -1,4 +1,4 @@
-setwd("//isi-dcnl/user_data/Seq/cwarden/HTseq_Files/")
+setwd("//isi-dcnl/user_data/Seq/Lu/HTseq_Files/")
 genome = "hg19"
 annotation.file = paste("TxDb_",genome,"_exon_annotations.txt",sep="")
 gene.length.file = paste("TxDb_",genome,"_gene_length_and_position.txt",sep="")
